@@ -1,5 +1,7 @@
 # README
 
+Ruby on Rails API with GraphQL
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
